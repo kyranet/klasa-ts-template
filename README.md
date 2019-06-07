@@ -4,7 +4,7 @@ This is a TypeScript Klasa Bot template, designed to make the setup much easier,
 versions of `klasa` and `discord.js`, together with a properly configured `tsconfig.json` and [ESLint](https://eslint.org/)
 with [TypeScript](https://www.typescriptlang.org/) for ease of development, testing, and linting.
 
-To get started with this template, you may want to rename the file `config.js.template` (or copy it for ease of
+To get started with this template, you may want to rename the file `config.ts.template` (or copy it for ease of
 development, `config.ts` will not be uploaded to the repository). You may keep and update the template file to help
 others setup your bot bot faster.
 
