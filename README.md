@@ -8,6 +8,12 @@ To get started with this template, you may want to rename the file `config.js.te
 development, `config.ts` will not be uploaded to the repository). You may keep and update the template file to help
 others setup your bot bot faster.
 
+## Using
+
+Want to quick-start :rocket: your TypeScript Klasa Bot Template?
+[Generate it](https://github.com/kyranet/klasa-ts-template/generate)! More information about GitHub :github: Templates
+[here](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/).
+
 ## License
 
 `klasa-ts-template` is licensed under the [UNLICENSE](https://github.com/kyranet/klasa-ts-template/blob/master/LICENSE)
