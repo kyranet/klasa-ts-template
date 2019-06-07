@@ -1,0 +1,29 @@
+{
+  "name": "klasa-ts",
+  "version": "1.0.0",
+  "description": "A barebones TypeScript Klasa Bot Template!",
+  "main": "dist/src/main.js",
+  "repository": "https://github.com/kyranet/klasa-ts-template",
+  "author": "Antonio Román <kyradiscord@gmail.com>",
+  "license": "UNLICENSE",
+  "private": true,
+  "scripts": {
+    "lint": "eslint --ext ts src --fix",
+    "test:lint": "eslint --ext ts src",
+    "build": "tsc -p .",
+    "watch": "tsc -p . -w",
+    "start": "node dist/src/main.js"
+  },
+  "dependencies": {
+    "discord.js": "discordjs/discord.js",
+    "klasa": "dirigeants/klasa"
+  },
+  "devDependencies": {
+    "@types/node": "^12.0.7",
+    "@typescript-eslint/eslint-plugin": "^1.9.0",
+    "@typescript-eslint/parser": "^1.9.0",
+    "eslint": "^5.16.0",
+    "eslint-config-klasa": "dirigeants/klasa-lint",
+    "typescript": "^3.5.1"
+  }
+}
