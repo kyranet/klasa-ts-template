@@ -1,4 +1,4 @@
-# TypeScript Klasa Bot Template 🎉
+# TypeScript Klasa Bot Template :tada:
 
 This is a TypeScript Klasa Bot template, designed to make the setup much easier, this template installs development
 versions of `klasa` and `discord.js`, together with a properly configured `tsconfig.json` and [ESLint](https://eslint.org/)
@@ -11,7 +11,7 @@ others setup your bot bot faster.
 ## Using
 
 Want to quick-start :rocket: your TypeScript Klasa Bot Template?
-[Generate it](https://github.com/kyranet/klasa-ts-template/generate)! More information about GitHub :github: Templates
+[Generate it](https://github.com/kyranet/klasa-ts-template/generate)! More information about **GitHub Templates**
 [here](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/).
 
 ## License
