@@ -25,7 +25,7 @@
 		"strictFunctionTypes": true,
 		"strictBindCallApply": true,
 		"target": "esnext",
-		"types": ["node"]
+		"types": ["node", "discord.js", "klasa"]
 	},
 	"include": [
 		"./src/**/*"
